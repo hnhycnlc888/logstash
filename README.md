@@ -1,0 +1,2 @@
+# logstash
+logstash通过插件logstash-input-jdbc同步mysql到elasticSeach
